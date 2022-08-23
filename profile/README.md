@@ -1,4 +1,7 @@
-## Hi there 👋
+## Bem vind@ à organização Game Jam FGA 🕹️
+
+![Logo da Universidade de Brasília em Pixel Art](./../assets/images/logo.png)
+Esta organização tem como objetivo principal a realização de Game Jams voltadas para o público estudante de Universiades que queiram ter maior contato com o mercado de Desenvolvimento de Jogos.
 
 <!--
 
