@@ -5,13 +5,17 @@
 </div>
 Esta organização tem como objetivo principal a realização de Game Jams voltadas para o público estudante de Universiades que queiram ter maior contato com o mercado de Desenvolvimento de Jogos.
 
-<!--
+## 📆 Programação 2022
+- Início: 29/08
+- Fim: 02/09
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Segunda-Feira
+Cerimônia de abertura, Formação das equipes e revelação do tema!
+### Terça-Feira
+algo
+### Quarta-Feira
+algo
+### Quinta-Feira
+Palestra Renan Ventura - Trilha sonora para jogos
+### Sexta-Feira
+Divulgação dos resultados + Cerimônia de encerramento
