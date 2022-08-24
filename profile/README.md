@@ -10,7 +10,7 @@ Esta organização tem como objetivo principal a realização de Game Jams volta
 - Fim: 02/09
 
 ### Segunda-Feira
-Cerimônia de abertura, Formação das equipes e revelação do tema!
+Cerimônia de abertura, Formação das equipes, revelação do tema e palestra Davi Arcos Baptista - Game Design
 ### Terça-Feira
 algo
 ### Quarta-Feira
