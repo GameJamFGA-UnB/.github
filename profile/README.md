@@ -12,10 +12,10 @@ Esta organização tem como objetivo principal a realização de Game Jams volta
 ### Segunda-Feira
 Cerimônia de abertura, Formação das equipes, revelação do tema e palestra Davi Arcos Baptista - Game Design
 ### Terça-Feira
-algo
+Palestra Anthony Viana - Como é montar / ter uma empresa de jogos
 ### Quarta-Feira
-algo
+Palestra João Vitor - Roteiro para games
 ### Quinta-Feira
 Palestra Renan Ventura - Trilha sonora para jogos
 ### Sexta-Feira
-Divulgação dos resultados + Cerimônia de encerramento
+Palestra Alberto Miranda - Mercado e Oportunidades de Trabalho + Divulgação dos resultados, Cerimônia de encerramento
