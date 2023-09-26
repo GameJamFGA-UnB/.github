@@ -16,6 +16,6 @@ Palestra Matheus Faria
 ### Quarta-Feira
 Nenhuma palestra prevista
 ### Quinta-Feira
-Palestra Alberto Miranda - Mercado e Oportunidades de Trabalho + Divulgação dos resultados, Cerimônia de encerramento
+Palestra Alberto Miranda - Mercado e Oportunidades de Trabalho
 ### Sexta-Feira
-Palestra Renan Ventura - Trilha sonora para jogos
+Palestra Renan Ventura - Trilha sonora para jogos + Divulgação dos resultados, Cerimônia de encerramento
