@@ -4,6 +4,8 @@
   <img src='https://github.com/GameJamFGA-UnB/.github/blob/d8c69bf9113ca41dd2f3df9c22feb53ad6062280/assets/images/Arte%20Game%20Jam%202024.png' alt='Logo da Game Jam 2022'>
 </div>
 
+[Link da Jam no Itch.io!](https://itch.io/jam/game-jam-unb-2024)
+
 ## 🎉 Bem-vindos à Game Jam FGA 2024! 🎉
 
 Preparem-se para uma semana de muita criatividade, aprendizado e diversão! Esta é uma game jam organizada pela Universidade de Brasília e ocorrerá nos campi Darcy Ribeiro e FGA. Junte-se a outros desenvolvedores para criar algo incrível!
